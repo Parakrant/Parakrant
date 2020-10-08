@@ -24,7 +24,6 @@ Here are some ideas to get you started:
 <a href="https://twitter.com/parakrant" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="parakrant" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/parakrant" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="parakrant" height="30" width="40" /></a>
 <a href="https://kaggle.com/parakrant" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="parakrant" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/parakrant sarkar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="parakrant sarkar" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/u571" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="u571" height="30" width="40" /></a>
 </p>
 
